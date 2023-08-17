@@ -1,7 +1,6 @@
 set keep-english-in-normal
 set sneak
 set NERDTree
-set multicursor
 
 //eazymotion
 let mapleader=" "
