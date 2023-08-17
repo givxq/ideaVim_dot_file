@@ -1,0 +1,18 @@
+set keep-english-in-normal
+set sneak
+set NERDTree
+set multicursor
+
+//eazymotion
+let mapleader=" "
+nmap <Leader>j <Plug>(easymotion-bd-jk)
+nmap <Leader>s <Plug>(easymotion-lineanywhere)
+set easymotion
+//
+
+//vim search option
+set hlsearch
+set incsearch
+set showmode
+nnoremap <esc> :noh<return><esc>
+
